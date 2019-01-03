@@ -1,3 +1,4 @@
+# APP_team
 # 一、产品概况
 ##### 1.项目介绍
 小组协作式Axure项目 中山大学南方学院 文学与传媒学院 网络与新媒体专业 <br/>
@@ -33,8 +34,8 @@
 - 想拥有一片陌生的广场并披上面具随意的呐喊。
 ##### 6.目标市场
 Sudenly app致力于做一款用音乐来社交的软件，在听歌的同时，为社交人群匹配高质量的精神伴侣，并提供匿名广场来宣泄内心的压力。
-##### 7.需求分析+产品特色功能
-<table> <tr> <td><center><strong>主体</center></td> <td colspan="5"><center><strong>场景</td></center> </tr> <tr><td><center>目标用户</center></td> <td colspan="5"><center>想通过社交软件精神交友，并且交友质量高</center></td> </tr><td><center><strong>需求</center></td><td><center><strong>产生的原因</center></td><td><center><strong>解决的功能</center></td><td><center><strong>产品特色功能</center></td><td><center><strong>产品核心立足点</center></td> <tr><td>不愿意透露个人资料的情况下交友</td><td>1.注重个人隐私</br>2.避免看脸交友</td><td>
+##### 7.需求分析+产品核心功能
+<table> <tr> <td><center><strong>主体</center></td> <td colspan="5"><center><strong>场景</td></center> </tr> <tr><td><center>目标用户</center></td> <td colspan="5"><center>想通过社交软件精神交友，并且交友质量高</center></td> </tr><td><center><strong>需求</center></td><td><center><strong>产生的原因</center></td><td><center><strong>解决的功能</center></td><td><center><strong>产品核心功能</center></td><td><center><strong>产品核心立足点</center></td> <tr><td>不愿意透露个人资料的情况下交友</td><td>1.注重个人隐私</br>2.避免看脸交友</td><td>
 1.统一头像</br>2.用户可自行隐藏个人资料</td><td rowspan="6">
 1. 通过音乐口味测试、听歌记录分析用户性格，从而匹配精神上音乐口味相似的好友。</br></br>
 2.有一片可匿名的广场，给予用户宣泄心中压力。</td><td rowspan="6">
@@ -46,7 +47,7 @@ Sudenly app致力于做一款用音乐来社交的软件，在听歌的同时，
 <td>寻找灵魂伴侣</td><td>想要精神上的高质量沟通</td><td>1.提供音乐口味测试题，得出用户性格</br>2.根据听歌历史得出用户音乐口味</td>
 <tr><td>想要多种匹配交友方式</td><td>单一的匹配方式无法获得满意的朋友</td><td>提供两种匹配方式，用户自主匹配/系统随机匹配</td></tr>
 <tr><td>交到新朋友，却没有耐心继续沟通</td><td>三观不合，口味不和</td><td>提供二者共同的音乐话题，精神共鸣沟通</td></tr>
-<tr><td>想在陌生的广场吐槽，不想被人认出</td><td>现代现实生活压力大</td><td>提供陌生广场，可匿名发帖，宣泄个人情绪</td></tr>
+<tr><td>想在陌生的广场吐槽，不想被人认出</td><td>现代现实生活压力大</td></tr>
 </table> 
 
 # 二、竞品分析
@@ -73,17 +74,6 @@ Soul APP在目前社交市场上是一款比较新颖的软件，但是，它们
 # 小结：
 <strong>Suddenly APP不会局限于做音乐问卷来交友，而是通过历史音乐口味，来自动匹配与你音乐口味相似的好友，一定程度上保证了交友质量。同时，匿名功能可以由用户自主选择是否匿名来发布动态。</strong>
 
-# 三、产品架构以及使用流程图
+# 三、参与贡献
 
-##### 1.功能架构图
-![avatar](https://github.com/q3466141541/-prd/blob/master/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD.png)
 
-##### 2.信息架构图
-![avatar](https://github.com/q3466141541/-prd/blob/master/%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84.png)
-
-##### 3.使用流程图
-![avatar](https://github.com/q3466141541/-prd/blob/master/%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.png)
-
-##### 4.用户体系架构图
-![avatar](https://github.com/q3466141541/-prd/blob/master/%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB4.png)
-在线链接[link](http://app.liuchengtu.com/#R569f729edc2ef1c618794ae46d3e4d0b)
